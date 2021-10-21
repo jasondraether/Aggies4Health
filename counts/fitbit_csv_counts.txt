@@ -1,0 +1,16 @@
+p01/fitbit/sleep_score.csv: 151 p01/fitbit/sleep_score.csv
+p02/fitbit/sleep_score.csv: 139 p02/fitbit/sleep_score.csv
+p03/fitbit/sleep_score.csv: 75 p03/fitbit/sleep_score.csv
+p04/fitbit/sleep_score.csv: 141 p04/fitbit/sleep_score.csv
+p05/fitbit/sleep_score.csv: 118 p05/fitbit/sleep_score.csv
+p06/fitbit/sleep_score.csv: 148 p06/fitbit/sleep_score.csv
+p07/fitbit/sleep_score.csv: 141 p07/fitbit/sleep_score.csv
+p08/fitbit/sleep_score.csv: 133 p08/fitbit/sleep_score.csv
+p09/fitbit/sleep_score.csv: 133 p09/fitbit/sleep_score.csv
+p10/fitbit/sleep_score.csv: 99 p10/fitbit/sleep_score.csv
+p11/fitbit/sleep_score.csv: 120 p11/fitbit/sleep_score.csv
+p12/fitbit/sleep_score.csv: 2 p12/fitbit/sleep_score.csv
+p13/fitbit/sleep_score.csv: 48 p13/fitbit/sleep_score.csv
+p14/fitbit/sleep_score.csv: 116 p14/fitbit/sleep_score.csv
+p15/fitbit/sleep_score.csv: 141 p15/fitbit/sleep_score.csv
+p16/fitbit/sleep_score.csv: 147 p16/fitbit/sleep_score.csv
