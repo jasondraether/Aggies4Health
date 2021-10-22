@@ -1,0 +1,15 @@
+110 ../../../data/pmdata/p01/googledocs/reporting.csv
+154 ../../../data/pmdata/p02/googledocs/reporting.csv
+118 ../../../data/pmdata/p03/googledocs/reporting.csv
+140 ../../../data/pmdata/p04/googledocs/reporting.csv
+127 ../../../data/pmdata/p05/googledocs/reporting.csv
+130 ../../../data/pmdata/p06/googledocs/reporting.csv
+127 ../../../data/pmdata/p07/googledocs/reporting.csv
+59 ../../../data/pmdata/p08/googledocs/reporting.csv
+99 ../../../data/pmdata/p09/googledocs/reporting.csv
+101 ../../../data/pmdata/p10/googledocs/reporting.csv
+64 ../../../data/pmdata/p11/googledocs/reporting.csv
+83 ../../../data/pmdata/p12/googledocs/reporting.csv
+67 ../../../data/pmdata/p13/googledocs/reporting.csv
+142 ../../../data/pmdata/p14/googledocs/reporting.csv
+63 ../../../data/pmdata/p16/googledocs/reporting.csv
