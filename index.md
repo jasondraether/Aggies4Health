@@ -1,6 +1,8 @@
 ## Aggies4Health
 
-Obesity and malnourishment has become a nationwide pandemic. Understanding individual activity patterns which contribute to a “healthy” lifestyle per CDC guidelines is necessary to improve personal lifestyles. Through evaluation of an individual's activity and sleep logs over time, we can develop a pattern of what exercise and sleep habits encourage individuals to continue to follow healthy routines.
+Obesity and malnourishment have become a nationwide pandemic. Understanding individual activity patterns which contribute to a “healthy” lifestyle per CDC guidelines is necessary to improve personal lifestyles. Through evaluation of an individual's activity and sleep logs over time, we can develop a pattern of what exercise and sleep habits encourage individuals to continue to follow healthy routines.
+
+We aspire to provide a general description of positive lifestyles to benefit individuals' broad understanding of patterns which encourage and allow for long term health. Individual health enables the growth and development of society. Individuals can see the patterns which they need to incorporate into their daily lives, thus providing them with concrete evidence of a path towards health.
 
 ### Data Visualization
 
