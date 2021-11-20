@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Aggies4Health
 
-You can use the [editor on GitHub](https://github.com/jasondraether/Aggies4Health/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Data mining to discover positive correlations for a healthy life style. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data Visualization
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Initial analysis of our data demonstrated each individual in the study utilized the Fitbit to their personal preference. Individualized use allows us to create individualized assumptions and correlations. Below is an example distribution of use per month per individual. 
 
 ```markdown
 Syntax highlighted code block
