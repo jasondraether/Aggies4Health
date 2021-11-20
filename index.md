@@ -1,6 +1,6 @@
 ## Aggies4Health
 
-Data mining to discover positive correlations for a healthy life style. 
+Obesity and malnourishment has become a nationwide pandemic. Understanding individual activity patterns which contribute to a “healthy” lifestyle per CDC guidelines is necessary to improve personal lifestyles. Through evaluation of an individual's activity and sleep logs over time, we can develop a pattern of what exercise and sleep habits encourage individuals to continue to follow healthy routines.
 
 ### Data Visualization
 
