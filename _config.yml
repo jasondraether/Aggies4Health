@@ -1,3 +1,10 @@
-theme: jekyll-theme-cayman
+remote_theme: tuur29/pages-themes-cayman
 title: Aggies4Health
 description: Data mining to discover positive trends for a healthy lifestyle. 
+colors:
+    gradient_left: "#800000"
+    gradient_right: "#808080"
+    header: "#fff"
+    android_theme: "#000" # this default to gradient_color
+    link: "#1e6bb8" # this default to gradient_color
+    section_title: "#808080" # this default to gradient_color
