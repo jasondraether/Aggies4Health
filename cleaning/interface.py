@@ -98,36 +98,9 @@ def get_sedminutes(pid):
 def get_sleep(pid):
     filename = 'sleep.json'
     df = pd.read_json(os.path.join(get_fitbit_path(pid), filename))
-    #df['deepCount'] = df['levels'].apply(lambda x:x['summary']['deep']['count'])
-    #df['deepMinutes'] = df['levels'].apply(lambda x:x['summary']['deep']['minutes'])
-    # df['lightCount'] = df['levels'].apply(lambda x: x['summary']['light']['count'])
-    # df['lightMinutes'] = df['levels'].apply(lambda x: x['summary']['light']['minutes'])
-    # df['remCount'] = df['levels'].apply(lambda x: x['summary']['rem']['count'])
-    # df['remMinutes'] = df['levels'].apply(lambda x: x['summary']['rem']['minutes'])
-    # df['wakeCount'] = df['levels'].apply(lambda x: x['summary']['wake']['count'])
-    kept_columns = [
-        'logId',
-        'dateOfSleep',
-        'startTime',
-        'endTime',
-        'duration',
-        'minutesToFallAsleep',
-        'minutesAsleep',
-        'minutesAwake',
-        'minutesAfterWakeup',
-        'timeInBed',
-
-    ]
-    """
-    'deepCount',
-        'deepMinutes',
-        'lightCount',
-        'lightMinutes',
-        'remCount',
-        'remMinutes',
-        'wakeCount'
-    """
-    return df[kept_columns]
+    df_levels = pd.json_normalize(df['levels'])
+    df[df_levels.columns] = df_levels
+    return df
 
 
 # OK
@@ -148,3 +121,11 @@ def get_steps(pid):
 def get_vaminutes(pid):
     filename = 'very_active_minutes.json'
     return pd.read_json(os.path.join(get_fitbit_path(pid), filename)).rename(columns={'value':'vaminutes'})
+
+def get_reporting(pid):
+    filename = 'reporting.csv'
+    return pd.read_csv(os.path.join(get_docs_path(pid), filename))
+
+def get_wellness(pid):
+    filename = 'wellness.csv'
+    return pd.read_csv(os.path.join(get_pmsys_path(pid), filename))
