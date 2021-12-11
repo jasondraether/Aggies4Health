@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 
+# Just used to gather counts of file objects into a cohesive csv file
+
 path_to_files = '../../counts/'
 
 df_dict = {
